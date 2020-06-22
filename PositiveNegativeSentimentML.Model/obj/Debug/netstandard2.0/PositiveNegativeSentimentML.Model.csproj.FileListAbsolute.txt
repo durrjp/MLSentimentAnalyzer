@@ -1,0 +1,10 @@
+C:\Users\durrj\workspace\ML Practice\PositiveNegativeSentiment\PositiveNegativeSentimentML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\durrj\workspace\ML Practice\PositiveNegativeSentiment\PositiveNegativeSentimentML.Model\bin\Debug\netstandard2.0\PositiveNegativeSentimentML.Model.deps.json
+C:\Users\durrj\workspace\ML Practice\PositiveNegativeSentiment\PositiveNegativeSentimentML.Model\bin\Debug\netstandard2.0\PositiveNegativeSentimentML.Model.dll
+C:\Users\durrj\workspace\ML Practice\PositiveNegativeSentiment\PositiveNegativeSentimentML.Model\bin\Debug\netstandard2.0\PositiveNegativeSentimentML.Model.pdb
+C:\Users\durrj\workspace\ML Practice\PositiveNegativeSentiment\PositiveNegativeSentimentML.Model\obj\Debug\netstandard2.0\PositiveNegativeSentimentML.Model.csprojAssemblyReference.cache
+C:\Users\durrj\workspace\ML Practice\PositiveNegativeSentiment\PositiveNegativeSentimentML.Model\obj\Debug\netstandard2.0\PositiveNegativeSentimentML.Model.AssemblyInfoInputs.cache
+C:\Users\durrj\workspace\ML Practice\PositiveNegativeSentiment\PositiveNegativeSentimentML.Model\obj\Debug\netstandard2.0\PositiveNegativeSentimentML.Model.AssemblyInfo.cs
+C:\Users\durrj\workspace\ML Practice\PositiveNegativeSentiment\PositiveNegativeSentimentML.Model\obj\Debug\netstandard2.0\PositiveNegativeSentimentML.Model.csproj.CoreCompileInputs.cache
+C:\Users\durrj\workspace\ML Practice\PositiveNegativeSentiment\PositiveNegativeSentimentML.Model\obj\Debug\netstandard2.0\PositiveNegativeSentimentML.Model.dll
+C:\Users\durrj\workspace\ML Practice\PositiveNegativeSentiment\PositiveNegativeSentimentML.Model\obj\Debug\netstandard2.0\PositiveNegativeSentimentML.Model.pdb

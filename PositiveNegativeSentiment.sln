@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositiveNegativeSentiment", "PositiveNegativeSentiment\PositiveNegativeSentiment.csproj", "{232D07F8-E365-4DE9-803D-C3876BFB7435}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PositiveNegativeSentimentML.Model", "PositiveNegativeSentimentML.Model\PositiveNegativeSentimentML.Model.csproj", "{237DD9FD-7E51-4357-822C-E16C30031137}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PositiveNegativeSentimentML.ConsoleApp", "PositiveNegativeSentimentML.ConsoleApp\PositiveNegativeSentimentML.ConsoleApp.csproj", "{6205D731-6E0B-4EE9-A1D5-1D28414F6DA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{232D07F8-E365-4DE9-803D-C3876BFB7435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232D07F8-E365-4DE9-803D-C3876BFB7435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232D07F8-E365-4DE9-803D-C3876BFB7435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232D07F8-E365-4DE9-803D-C3876BFB7435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237DD9FD-7E51-4357-822C-E16C30031137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237DD9FD-7E51-4357-822C-E16C30031137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237DD9FD-7E51-4357-822C-E16C30031137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237DD9FD-7E51-4357-822C-E16C30031137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6205D731-6E0B-4EE9-A1D5-1D28414F6DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6205D731-6E0B-4EE9-A1D5-1D28414F6DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6205D731-6E0B-4EE9-A1D5-1D28414F6DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6205D731-6E0B-4EE9-A1D5-1D28414F6DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E3C8D09-53BE-4655-9D49-D253CDC21A84}
+	EndGlobalSection
+EndGlobal
